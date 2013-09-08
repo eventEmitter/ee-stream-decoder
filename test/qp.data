@@ -1,0 +1,7 @@
+Um trotzdem Zeichen aus dem Bereich 128-255 verwenden zu k=F6nnen, ohne =
+dabei die Kompatibilit=E4t zu =E4lteren Systemen zu gef=E4hrden, werden =
+diese Zeichen zus=E4tzlich kodiert.=20
+
+Dabei werden s=E4mtliche Bytes au=DFerhalb der dezimalen Bereiche 9, =
+32-60 und 62-126 durch ein =3D-Zeichen (ASCII-Wert 61) gefolgt vom =
+Hexadezimalwert des Bytes ersetzt.
