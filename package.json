@@ -1,7 +1,7 @@
 {
       "name"                    : "ee-stream-decoder"
     , "description"             : "stream decodes base64 and quoted printable data"
-    , "version"                 : "0.1.0"
+    , "version"                 : "0.1.1"
     , "homepage"                : "https://github.com/eventEmitter/ee-stream-decoder"
     , "author"                  : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                 : "MIT"
