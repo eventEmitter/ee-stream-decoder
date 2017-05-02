@@ -1,5 +1,7 @@
 # ee-stream-decoder
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-stream-decoder.svg)](https://greenkeeper.io/)
+
 stream decodes base64 and quoted printable data
 
 ## installation
